@@ -1,0 +1,12 @@
+Forest Mayhem
+===================
+SHORT DESCRIPTION:
+Colotful arcade game for a younger players.
+LONG:
+Arcade game where you have to catch the bunnies in a limited
+time and try get a biggest score as possible. Avoid catching
+owls since these will decrease the score. 
+
+*Mobile ready
+*Scalable screen size
+*Rated for everyone
